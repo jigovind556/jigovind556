@@ -33,6 +33,8 @@ As a Full Stack Developer, I designed and implemented the official website for t
 ## 📈 GitHub Stats
 
 [![Govind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jigovind556&show_icons=true&count_private=true&hide=issues&theme=dark)](https://github.com/jigovind556)
+[![Govind's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jigovind556&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/jigovind556)
+[![Govind's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jigovind556&theme=dark)](https://github.com/jigovind556)
 
 ## 📫 Let's Connect
 
